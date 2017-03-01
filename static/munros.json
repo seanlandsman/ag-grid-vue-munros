@@ -1,0 +1,92 @@
+[
+  {
+    "gr6": "NG951611",
+    "hillname": "Beinn Eighe-Ruadh-stac Mor",
+    "height": 1010,
+    "latitude": 57.593735,
+    "longitude": -5.429454,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beinn_Eighe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Beinn_eighe.jpg"
+  },
+  {
+    "gr6": "NC477501",
+    "hillname": "Ben Hope",
+    "height": 927,
+    "latitude": 58.413113,
+    "longitude": -4.60786,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Hope",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/BenHopefromLochEriboll.jpg"
+  },
+  {
+    "gr6": "NN367028",
+    "hillname": "Ben Lomond",
+    "height": 974,
+    "latitude": 56.190284,
+    "longitude": -4.633008,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Lomond",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Loch_lomond1.jpg"
+  },
+  {
+    "gr6": "NN988989",
+    "hillname": "Ben Macdui (Beinn Macduibh)",
+    "height": 1309,
+    "latitude": 57.070368,
+    "longitude": -3.669099,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Macdui",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ben-macdui-from-carn-liath.jpg"
+  },
+  {
+    "gr6": "NN222542",
+    "hillname": "Buachaille Etive Mor-Stob Dearg",
+    "height": 1021.4,
+    "latitude": 56.646229,
+    "longitude": -4.900336,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buachaille_Etive_M%C3%B2r",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Buachaille_Etive_Mor.jpg"
+  },
+  {
+    "gr6": "NG929579",
+    "hillname": "Liathach-Spidean a'Choire Leith",
+    "height": 1055,
+    "latitude": 57.564198,
+    "longitude": -5.463592,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liathach",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Liathach_from_east.jpg"
+  },
+  {
+    "gr6": "NO243861",
+    "hillname": "Lochnagar-Cac Carn Beag",
+    "height": 1156,
+    "latitude": 56.960254,
+    "longitude": -3.24526,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lochnagar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lochnagar_in_winter_by_Bruce_McAdam.jpg"
+  },
+  {
+    "gr6": "NN713547",
+    "hillname": "Schiehallion",
+    "height": 1083,
+    "latitude": 56.666942,
+    "longitude": -4.100213,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Schiehallion",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Schiehallion_NW_ridge.jpg"
+  },
+  {
+    "gr6": "NG471253",
+    "hillname": "Sgurr nan Gillean",
+    "height": 964,
+    "latitude": 57.248262,
+    "longitude": -6.193098,
+    "climbed": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sg%C3%B9rr_nan_Gillean",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Schiehallion_NW_ridge.jpg"
+  }
+]
