@@ -1,6 +1,6 @@
-# munro-app
+# ag-grid-vue-munros
 
-> A Vue.js project
+> A Vue.js project demonstrating how ag-Grid and VueJS can be used together
 
 ## Build Setup
 
@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+This example is based on the blog on this subject which can be found at [Using VueJS Components in ag-Grid](https://www.ag-grid.com/ag-grid-vuejs-integration "Using VueJS Components in ag-Grid")
